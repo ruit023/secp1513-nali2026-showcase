@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=_jAPp9ZF97w)" target="_blank">
     <img src="Gemini_Generated_Image_d0xr28d0xr28d0xr.jpg" alt="SECP1513 | NALI 2026 — AI-Human Synergy in Pedagogy" width="88%" />
   </a>
   <br />
