@@ -1,36 +1,34 @@
-# SECP1513 | NALI 2026: Human-AI Synergy in Pedagogy — Meetarik Group 2
+<div align="center">
 
-This repository documents **Meetarik Group 2**’s complete workflow, research, scripts, reflections, and production process for the **SECP1513 (Technology and Information System)** assignment centered on **NALI 2026** (*New Academia Learning Innovation*).
+# ⚡ NALI 2026 Process Log — Tey Hao Rui
 
-## Event & Course Overview
-- **Course:** SECP1513 — Technology and Information System (TIS)
-- **Event:** NALI 2026 (*New Academia Learning Innovation*)[cite: 2]
-- **Theme:** *Human-AI Synergy in Pedagogy*[cite: 2]
-- **Date & Venue:** October 28–29, 2026 | Dewan Sultan Iskandar, Universiti Teknologi Malaysia (UTM), Johor Bahru[cite: 2]
-- **Group:** Meetarik Group 2[cite: 1, 2, 3]
+**Documenting my end-to-end SECP1513 journey: *ElektroTutor AI* poster analysis, innovator interview, AI avatar production, video editing, and deep reflections.**
 
-## Team Members (Meetarik Group 2)
-| Name | Matric Number | Role / Focus |
-| :--- | :--- | :--- |
-| **Lim Guan Cheng** | `A25CS0262` | Poster Presentation, Interview & Reflection[cite: 1, 3] |
-| **Muhammad Adli Sultan bin Mohamad Zainuri** | `A25CS0105` | Poster Presentation, Interview & Reflection[cite: 1, 3] |
-| **Tey Hao Rui** | `A24CS0308` | *ElektroTutor AI* Poster, Dr. Afandi Interview, AI Avatar & Reflection[cite: 1, 3] |
-| **Tee Jia Xuan** | `A25CS0282` | Poster Presentation, Interview & Reflection[cite: 1, 3] |
-| **Muhammad Aqil Alif bin Azmiran** | `A25CS0099` | Poster Presentation, Interview & Reflection[cite: 1, 3] |
+[![Course](https://img.shields.io/badge/Course-SECP1513%20TIS-0F172A?style=for-the-badge)](#)
+[![Event](https://img.shields.io/badge/Event-NALI%202026-0284C7?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Spotlight-ElektroTutor%20AI-0D9488?style=for-the-badge)](#)
+[![Author](https://img.shields.io/badge/Author-Tey%20Hao%20Rui%20(A24CS0308)-4F46E5?style=for-the-badge)](#)
 
-## End-to-End Process & Repository Structure
-Our team organized the repository to reflect every stage of the assignment—from field preparation and interviews to AI avatar generation, video editing, reflections, and submission:
+*NALI 2026 (New Academia Learning Innovation) · Theme: **Human-AI Synergy in Pedagogy** · Oct 28–29, 2026 · Dewan Sultan Iskandar, UTM Johor Bahru*
+
+</div>
+
+---
+
+## 🎯 My Core Focus
+
+> *"Effective educational AI goes beyond wrapping a text chatbot around slides—it synchronizes real-time interaction, visual clarity, and practical system constraints where learners actually work."*
+
+In this assignment, my personal track centers on:
+- **Poster Analysis:** ***ElektroTutor AI: A Bilingual 3D-Avatar Voice Tutor for TVET Electrical & Electronics*** (by Muhammad Khair Noordin & Muhammad Afandi Azmi, UTM) — real-time Malay–English voice interaction, `850 ms` response latency, pin-by-pin wiring & Arduino code support, zero-install single-HTML deployment for weak lab networks, and `63.3%` pilot test-score gain (`n = 54`, `88%` voice preference).
+- **On-Site Interview:** Speaking with **Dr. Muhammad Afandi Azmi** (Faculty of Educational Sciences and Technology, UTM) on lab bottlenecks, human-in-the-loop teaching, student workflow, network constraints, and pilot impact.
+- **AI Avatar & Video Craft:** Designing avatar look/pose/background prompts, splitting scripts around character limits, pairing visuals with lower-thirds and motion stickers, and refining subtitles.
+- **Deep Reflection:** Connecting low-latency HCI, cognitive load, offline-resilient architecture, and empirical evaluation directly to **SECP1513 (Technology and Information System)**.
+
+---
+
+## 🧭 End-to-End Process Map
 
 ```text
-├── README.md                          # Project overview, team details, workflow & links
-├── docs/
-│   ├── event-overview.md              # NALI 2026 context, schedule, venue & team task split
-│   ├── posters-summary.md             # Summaries of selected ICT teaching & learning posters (including ElektroTutor AI)
-│   ├── interview-notes.md             # Interview questions & innovator responses (including Dr. Muhammad Afandi Azmi)
-│   ├── scripts-and-reflections.md     # Intro, member cues, poster scripts, interview transcript & reflections
-│   └── workflow-and-tools.md          # AI avatar generation, TTS pronunciation tweaks, CapCut/Synthesia/HeyGen notes
-├── media/
-│   ├── posters/                       # High-resolution images of selected posters
-│   ├── visuals-and-avatars/           # Avatar references, backgrounds, lower-thirds & visual assets
-│   └── links-and-submissions.md       # Hosted video links (YouTube / Google Drive) & submission checklist
-└── .gitignore                         # Ignores large raw media files, OS artifacts & temporary caches
+[01. Field & Poster] ──▶ [02. Interview] ──▶ [03. AI Avatar] ──▶ [04. Video Edit] ──▶ [05. Reflection & Archive]
+  ElektroTutor AI         Dr. Afandi Q&A      Look/Pose/Cues     CapCut/Synthesia     5-Point Deep Reflection
