@@ -15,17 +15,13 @@
 
 ---
 
-## 🎬 Video Cover
-
 <div align="center">
-  <img src="media/visuals/video-cover.png" alt="NALI 2026 Video Cover - Meetarik Group 2" width="88%" />
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="Gemini_Generated_Image_d0xr28d0xr28d0xr.jpg" alt="SECP1513 | NALI 2026 — AI-Human Synergy in Pedagogy" width="88%" />
+  </a>
   <br />
-  <sub><em>16:9 widescreen video cover featuring balanced five-member layout for Meetarik Group 2 (NALI 2026 showcase).</em></sub>
+  <sub><em>Click the cover above to watch the full video on YouTube · Meetarik Group 2</em></sub>
 </div>
-
-> **Cover & Visual Note:** Save your generated cover image to `media/visuals/video-cover.png` so it renders directly in this repository. Before final submission, double-check that all on-screen member names and matric numbers match the verified roster below.
-
----
 
 ## 📌 Featured Poster: *ElektroTutor AI*
 
